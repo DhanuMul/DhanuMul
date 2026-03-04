@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Dhanwanti Moolchandani] 👋
+### Microsoft Trainer | Data Analyst | AI Generalist
 
-<!--
-**DhanuMul/DhanuMul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🤖 About Me
+- 🎓 Currently studying to be an **AI Generalist**.
+- 🏫 Specialized in training **Microsoft Office** and **Data Analysis tools**.
+- 📊 Passionate about bridging the gap between **Human Intelligence** and **AI Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My AI Toolbelt
+| Category | Tools | Level |
+| :--- | :--- | :--- |
+| **Analysis** | Excel, Power BI, Python | Expert |
+| **Generative AI** | GPT-4o, Claude 3.5, Midjourney | Intermediate |
+| **Version Control**| GitHub, Git Desktop | Learning |
+
+## 🎯 2026 Goals
+- [ ] Complete "Generative AI for Beginners" fork.
+- [ ] Build a library of 50+ optimized prompts for Data Analysts.
+- [ ] Master Markdown for technical documentation.
+
+---
+*“Teaching the world to analyze data, one cell at a time.”*
