@@ -2,7 +2,7 @@
 ### Microsoft Trainer | Data Analyst | AI Generalist
 
 ---
-[🏠 Home](https://DhanuMul.github.io/DhanuMul/) | [🤖 Prompt Library](./Prompt_Templates.md) | [📊 AI Tools](./AI_Tools.md) | [📑 Syllabus](../../issues)
+# [🏠 Home](https://DhanuMul.github.io/DhanuMul/) | [🤖 Prompts](./Prompt-Templates.md) | [📊 Tools](./AI-Tools.md) | [📑 Syllabus](https://github.com/DhanuMul/DhanuMul/issues)
 
 ---
 ## 🤖 About Me
