@@ -1,4 +1,4 @@
-# Hi, I'm [Dhanwanti Moolchandani] 👋
+# Hi, I'm Dhanwanti Moolchandani 👋
 ### Microsoft Trainer | Data Analyst | AI Generalist
 
 ---
@@ -12,8 +12,8 @@
 | Category | Tools | Level |
 | :--- | :--- | :--- |
 | **Analysis** | Excel, Power BI, Python | Expert |
-| **Generative AI** | GPT-4o, Claude 3.5, Midjourney | Intermediate |
-| **Version Control**| GitHub, Git Desktop | Learning |
+| **Generative AI** | GPT-5o, Claude 4.6, Midjourney | Intermediate |
+| **Version Control**| GitHub, Git Desktop | Intermediate |
 
 ## 🎯 2026 Goals
 - [ ] Complete "Generative AI for Beginners" fork.
