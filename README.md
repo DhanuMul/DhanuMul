@@ -9,11 +9,12 @@
 - 📊 Passionate about bridging the gap between **Human Intelligence** and **AI Automation**.
 
 ## 🛠 My AI Toolbelt
+
 | Category | Tools | Level |
 | :--- | :--- | :--- |
 | **Analysis** | Excel, Power BI, Python | Expert |
 | **Generative AI** | GPT-5o, Claude 4.6, Midjourney | Intermediate |
-| **Version Control**| GitHub, Git Desktop | Intermediate |
+| **Version Control** | GitHub, Git Desktop | Intermediate |
 
 ## 🎯 2026 Goals
 - [ ] Complete "Generative AI for Beginners" fork.
