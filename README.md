@@ -1,3 +1,6 @@
+[🏠 Home](https://DhanuMul.github.io/DhanuMul/) | [🤖 Prompt Library](./Prompt_Templates.md) | [📊 AI Tools](./AI_Tools.md) | [📑 Syllabus](../../issues)
+
+---
 # Hi, I'm Dhanwanti Moolchandani 👋
 ### Microsoft Trainer | Data Analyst | AI Generalist
 
